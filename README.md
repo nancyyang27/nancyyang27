@@ -8,6 +8,8 @@ Reasons:
 
 * Cherry Blossoms are pink!
 
+* Cherry Blossoms are pretty!
+
 ```
 x <- 5
 y <- 'hello'
